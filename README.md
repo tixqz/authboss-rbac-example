@@ -1,2 +1,5 @@
 # authboss-rbac-example
-example for rbac with authboss
+
+Example for rbac with authboss - naive implementation.
+
+!!!!!!Never use it in prod!!!!!!
